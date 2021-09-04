@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Viswabharathi9/calculator-app-project/static/css/main.4d4e7868.chunk.css",
+    "main.js": "/Viswabharathi9/calculator-app-project/static/js/main.c1fb6a14.chunk.js",
+    "main.js.map": "/Viswabharathi9/calculator-app-project/static/js/main.c1fb6a14.chunk.js.map",
+    "runtime-main.js": "/Viswabharathi9/calculator-app-project/static/js/runtime-main.c7c9d5c3.js",
+    "runtime-main.js.map": "/Viswabharathi9/calculator-app-project/static/js/runtime-main.c7c9d5c3.js.map",
+    "static/js/2.1d9eb6cb.chunk.js": "/Viswabharathi9/calculator-app-project/static/js/2.1d9eb6cb.chunk.js",
+    "static/js/2.1d9eb6cb.chunk.js.map": "/Viswabharathi9/calculator-app-project/static/js/2.1d9eb6cb.chunk.js.map",
+    "index.html": "/Viswabharathi9/calculator-app-project/index.html",
+    "static/css/main.4d4e7868.chunk.css.map": "/Viswabharathi9/calculator-app-project/static/css/main.4d4e7868.chunk.css.map",
+    "static/js/2.1d9eb6cb.chunk.js.LICENSE.txt": "/Viswabharathi9/calculator-app-project/static/js/2.1d9eb6cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7c9d5c3.js",
+    "static/js/2.1d9eb6cb.chunk.js",
+    "static/css/main.4d4e7868.chunk.css",
+    "static/js/main.c1fb6a14.chunk.js"
+  ]
+}
